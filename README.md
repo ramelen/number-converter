@@ -36,6 +36,6 @@ replace with numbers {2(3(2(3)1))}
 
 replace 2 and 3 with 2* and 3*, and 1 with +1 {2*(3*(2*(3)+1))}
 
-evaluate left to right instead of the order of operations {2\*3*7} -> {2*21} -> {42}
+evaluate left to right instead of the order of operations {2\*3\*7} -> {2\*21} -> {42}
 
 voila!
